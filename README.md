@@ -1,4 +1,4 @@
-#The Odin Project: Landing Page
+# The Odin Project: Landing Page
 
 This is the webpage I made to the **[Landing Page project](https://www.theodinproject.com/lessons/foundations-landing-page)** of The Odin Project.
 
