@@ -1,6 +1,6 @@
 # The Odin Project: Landing Page
 
-This is the webpage I made to the **[Landing Page project](https://www.theodinproject.com/lessons/foundations-landing-page)** of The Odin Project.
+This is the webpage I made to the **[Landing Page project](https://www.theodinproject.com/lessons/foundations-landing-page)** of The Odin Project. [Click here](https://yohanaff.github.io/odin-landing-page/) to see my finished project.
 
 The purpose of this project is to apply all the concepts learned in the Flexbox part of The Odin Project's Foundations curriculum.
 
