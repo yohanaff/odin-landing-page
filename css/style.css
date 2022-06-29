@@ -92,6 +92,7 @@ header {
     background: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7));
     min-height: 450px;
     padding: 100px 0 150px;
+    height: 100vh;
 }
 
 header .container {
